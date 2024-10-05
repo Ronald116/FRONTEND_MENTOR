@@ -22,8 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ronald116/FRONTEND_MENTOR/tree/main/02_blog_preview)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Ronald116/FRONTEND_MENTOR/tree/main/02_blog_preview)
+- Live Site URL: [Netlify](https://animated-biscuit-4924d4.netlify.app/)
 
 ## My process
 
